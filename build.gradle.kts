@@ -4,6 +4,7 @@ plugins {
 }
 
 repositories {
+    mavenLocal()
     maven {
         url = uri("https://maven.pkg.github.com/refinedmods/refinedstorage2")
         credentials {

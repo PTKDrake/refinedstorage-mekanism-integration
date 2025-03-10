@@ -12,11 +12,6 @@ description = '''
 Mekanism integration for Refined Storage.
 '''
 [[dependencies.refinedstorage_mekanism_integration]]
-modId = "refinedstorage"
-type = "required"
-versionRange = "2.0.0-milestone.4.14"
-side = "BOTH"
-[[dependencies.refinedstorage_mekanism_integration]]
 modId = "mekanism"
 type = "required"
 versionRange = "[10.6,11-)"
